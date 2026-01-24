@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "593978924948",
+    "project_id": "ridesharing-98e9f",
+    "storage_bucket": "ridesharing-98e9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593978924948:android:3a7573e465709fd84d3981",
+        "android_client_info": {
+          "package_name": "com.app.ridesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593978924948-cvs9dne3cipkngkqkt8qpd91cotaqhmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ridesharing",
+            "certificate_hash": "a16d4b985b9e44e862449433c904f7b35ef4dddc"
+          }
+        },
+        {
+          "client_id": "593978924948-ki21i1fnavhdabnqor3hifescr8cu70s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ridesharing",
+            "certificate_hash": "2b96737fdb56789543954a1722fca8bf8da342e2"
+          }
+        },
+        {
+          "client_id": "593978924948-7ucj83m85onhvq0ucv8m2o7lpna6vvtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBgV_TmoKG-2SP7pLd1kzpDRaLKOGOjvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593978924948-7ucj83m85onhvq0ucv8m2o7lpna6vvtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593978924948-nqv5ep4q02fe4itp6959ab7ihjomtbe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.ridesharingrider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593978924948:android:b4310f728dcdde994d3981",
+        "android_client_info": {
+          "package_name": "com.app.ridesharingrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593978924948-038tvcvtqe1d1vc4rcbb6ch5agm40r8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ridesharingrider",
+            "certificate_hash": "2b96737fdb56789543954a1722fca8bf8da342e2"
+          }
+        },
+        {
+          "client_id": "593978924948-j4nnl9b4l5iq57qb8ccroqcpfo9gp2gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ridesharingrider",
+            "certificate_hash": "a16d4b985b9e44e862449433c904f7b35ef4dddc"
+          }
+        },
+        {
+          "client_id": "593978924948-7ucj83m85onhvq0ucv8m2o7lpna6vvtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBgV_TmoKG-2SP7pLd1kzpDRaLKOGOjvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593978924948-7ucj83m85onhvq0ucv8m2o7lpna6vvtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593978924948-nqv5ep4q02fe4itp6959ab7ihjomtbe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.ridesharingrider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593978924948:android:96a842869c658d8e4d3981",
+        "android_client_info": {
+          "package_name": "com.ezdriver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593978924948-7ucj83m85onhvq0ucv8m2o7lpna6vvtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBgV_TmoKG-2SP7pLd1kzpDRaLKOGOjvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593978924948-7ucj83m85onhvq0ucv8m2o7lpna6vvtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593978924948-nqv5ep4q02fe4itp6959ab7ihjomtbe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.ridesharingrider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
