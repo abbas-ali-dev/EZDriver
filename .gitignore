@@ -1,0 +1,7 @@
+/.dart_tool
+/build
+android/upload_certificate.pem
+android/.DS_Store
+.DS_Store
+.vscode/settings.json
+android/key.properties
